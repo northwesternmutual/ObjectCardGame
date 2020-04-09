@@ -26,3 +26,5 @@ Scoring is up to the players. We’ve found different ages are motivated by grou
 
 ### End of Deck Scoring:
 Use all cards in the stack until either there are no more moves to make or either stack - Objects or Has/Is - have run out. Winner has the least number of cards in hand.
+
+![Demo Image](./gameplayGraphic.png)
