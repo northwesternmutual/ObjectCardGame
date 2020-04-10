@@ -4,9 +4,11 @@ This card game is an introduction to Object-Oriented Programming, used in Comput
 The cards are organized as Objects: Generic (Boat), Objects: Instances (Sailboat), Containment (Has) and Associations (Is).
 Association defines a relationship between classes of objects that allows one object instance to cause another to perform an action on its behalf. This relationship is structural, because it specifies that objects of one kind are connected to objects of another and does not represent behavior.
 
-
+<div style="float: right">
 ![Demo Image](./gameplayGraphic.png)
-img[src*='#right']{ float: right; }
+</div>
+
+
 
 ## Setup/Play:
 1. The deck is separated into two (2) piles: Object and Has/Is stacks.
