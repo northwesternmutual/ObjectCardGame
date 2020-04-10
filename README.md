@@ -12,4 +12,4 @@ We then focused on developing an engaging card game around data hierarchy target
 We feel that we're on the path of a fun project between kids and parents but we're lacking in game mechanics. Because of the current "Shelter in Place' requirements being enforced around the country we're chosing to Open Source this effort so that we can make changes and build on this game together while we're stuck inside.
 
 ## Making your own
-Soon I'll be posting a link to a company that you can directly order a deck from and have delivered to your door. Additionally, early prototypes were used by ordering blank decks of cards online and then writing in the names on each card.
+Soon we'll post a link to a company that you can directly order a deck from (in the picture above) to have delivered to your door. Additionally, early prototypes were used by ordering blank decks of cards online and then writing in the names on each card.
