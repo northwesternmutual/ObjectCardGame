@@ -5,7 +5,7 @@ The cards are organized as Objects: Generic (Boat), Objects: Instances (Sailboat
 Association defines a relationship between classes of objects that allows one object instance to cause another to perform an action on its behalf. This relationship is structural, because it specifies that objects of one kind are connected to objects of another and does not represent behavior.
 
 <div style="float: right">
-![Demo Image](./gameplayGraphic.png)
+<img src="./gameplayGraphic.png" />
 </div>
 
 
