@@ -3,7 +3,6 @@
 The cards are organized as Objects: Generic (Boat), Objects: Instances (Sailboat), Containment (Has) and Associations (Is).
 Association defines a relationship between classes of objects that allows one object instance to cause another to perform an action on its behalf. This relationship is structural, because it specifies that objects of one kind are connected to objects of another and does not represent behavior.
 
-
 ## Setup/Play:
 1. The deck is separated into two (2) piles: Object and Has/Is stacks.
 2. The [Vehicle] card is placed in the middle of the playing surface.
